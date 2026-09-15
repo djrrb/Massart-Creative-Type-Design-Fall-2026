@@ -28,7 +28,7 @@ Upon completion of this course, you will:
 
 ## Course Expectations
 
-I expect you to attended classes regularly, participate in critiques and discussions, and complete exercises and readings. You'll need to work independently on your typeface projects both inside and outside of class, and present your progress at various points throughout the semester. You will be working on new projects in new software, and will have to be resourceful in finding solutions to problems you encounter or ways to work around them. And if you find yourself having trouble with the course material, or will need to miss a session, I expect you to get in touch with me either by e-mail or before/after class.
+I expect you to attended classes regularly, participate in critiques and discussions, and complete exercises and readings. You'll need to work independently on your typeface projects both inside and outside of class, and present your progress at various points throughout the semester. You will be working on new projects in new software, and will have to be resourceful in finding solutions to problems you encounter or ways to work around them. And if you find yourself having trouble with the course material, or will need to miss a session, I expect you to get in touch with me either by e-mail or before/after class. You may not be able to complete the course if you miss more than one session.
 
 Your portfolio typeface project is largely self-directed, and will be different for each student. You'll propose a concept, intended use, and basic control characters, and then use this specification to guide your decisionmaking throughout the semester.
 
