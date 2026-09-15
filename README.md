@@ -35,6 +35,7 @@ Your portfolio typeface project is largely self-directed, and will be different 
 ## Course Materials
 
 * [Glyphs](https://glyphsapp.com), for typeface design
+* [FontGoggles](https://fontgoggles.org), for checking fonts
 * [Zoom](https://zoom.us), for class meetings
 * [Discord](https://discord.com), for asynchronous correspondence
 * [GitHub](https://github.com), for supplemental materials

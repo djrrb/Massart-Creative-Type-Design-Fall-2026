@@ -4,6 +4,8 @@
 * [Type design resources](https://typedesignresources.com)
 * [Fonts in Use](https://fontsinuse.com)
 * [Type Foundry Directory](https://typefoundry.directory)
+* [Font Gauntlet](https://fontgauntlet.com)
+* [Wakamai Fondue](http://wakamaifondue.com)
 
 ## Glyphs app
 
