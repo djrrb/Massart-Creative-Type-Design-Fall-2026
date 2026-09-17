@@ -949,46 +949,6 @@ value = Regular;
 {
 customParameters = (
 {
-name = Filter;
-value = "OffsetCurve;20;20;0;0;";
-},
-{
-name = Filter;
-value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "OffsetCurve;-20;-20;0;0;";
-},
-{
-name = Filter;
-value = "Simplify;";
-},
-{
-name = Filter;
-value = "Roughenizer;25;25;25;0;";
-},
-);
-id = "951EEA85-8D54-4A48-ADB3-DFB52EC3D19F";
-instanceInterpolations = {
-"25AF5FA6-5CF8-4782-A820-195B13AFFB5B" = 1;
-};
-properties = (
-{
-key = styleNames;
-values = (
-{
-language = dflt;
-value = Rough;
-},
-);
-},
-);
-widthClass = 6;
-},
-{
-customParameters = (
-{
 name = "Rename Glyphs";
 value = (
 "pixel.circle=pixel",
@@ -1043,9 +1003,6 @@ value = PixelDemo;
 );
 },
 );
-settings = {
-gridLength = 100;
-};
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;
